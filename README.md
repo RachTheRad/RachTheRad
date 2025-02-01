@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @RachTheRad
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning the basics.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👀 I’m interested in data the demonstrates a customer's relationships with a business or service.
+- 🌱 I’m currently learning SQL and Tableau.
+- 💞️ I’m looking to collaborate on data analytic projects centered on customer service and relationships.
+- 📫 How to reach me: rmradwanski@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact:
+- ⚡ Fun fact: In another life I worked as a pastry cook, and even met Chef Wolfgang Puck while working at one of his restaurants.
 
 <!---
 RachTheRad/RachTheRad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
