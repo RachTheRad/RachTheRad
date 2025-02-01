@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RachTheRad
-- 👀 I’m interested in data the demonstrates a customer's relationships with a business or service.
+- 👀 I’m interested in data that demonstrates a client's relationship with a business or service.
 - 🌱 I’m currently learning SQL and Tableau.
 - 💞️ I’m looking to collaborate on data analytic projects centered on customer service and relationships.
 - 📫 How to reach me: rmradwanski@gmail.com
