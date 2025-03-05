@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RachTheRad
 - 👀 I’m interested in data that demonstrates a client's relationship with a business or service.
-- 🌱 I’m currently Python, Pandas, SQL, and Tableau (but we're always learning).
+- 🌱 I’m currently learning Python, Pandas, SQL, and Tableau (but we're always learning).
 - 💞️ I’m looking to collaborate on data analytic projects centered on customer service and relationships.
 - 📫 How to reach me: rmradwanski@gmail.com; 
 - 😄 Pronouns: she/her
